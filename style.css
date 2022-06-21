@@ -1,0 +1,10 @@
+.login{
+	width: 30vw;
+	height: 100vh;
+}
+
+@media only screen and (max-width: 992px){
+	.login{
+		width: 60vw;
+	}
+}
